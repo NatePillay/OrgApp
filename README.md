@@ -1,20 +1,19 @@
-# SPITS
+Charitable
 
-A new Flutter project.
+A platform for different organisations/individuals to reach audiences globally and locally to bring awareness to certain opportunities present for funding or assistance. 
 
-## Getting Started
+It will give organisations a chance to promote their work and reach audiences that would otherwise be out of reach. What i see when i google for organisations to donate too i am not able to easily find pictures, stories, videos describing their recent good work and their upcoming events.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+What will make us different to instagram? 
+This is not a follower/followee relationship.
+Every person/organisation can post and see each others post. The difference is we will divide users by geographical location and the type of charity that group/person intends to help/uplift or support. This will help place importance and give a platform to all who use it. If a user wishes to see more then the initial thumbnail and blurb they can click on it and be taken to more detail posted by the authors of the articles. Users can then choose which countries to look into and find projects that speak to them.
 
-### Getting started continued:
+I would like to set up social media scrapers that will retrieve posts on other popular web sites and reshare that information and links to the post through our app.
 
-This project is a starting point for a Flutter application.
+The algorithm will need to develop over time to bring the most popular posts to the top. This will be measured by the click rate. In instances when there has been a recent disaster/war breakout/emergency situation we will boost those posts based on their importance and the need for immediate support.
 
-A few resources to get you started if this is your first Flutter project:
+We will enable an integrated payment service which can be set up by person/organisation when they sign up. We will use a current service provider that offer fast and reliable payment options.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Our database has to be dynamic and efficient as we will need to not only save user details, also photos, videos, voice recordings, website links as well as allow for the profiles to be updated and changed as often as the user desires.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
